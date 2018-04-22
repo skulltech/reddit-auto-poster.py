@@ -1,0 +1,17 @@
+{
+	"Posts": [
+		{
+			"Subreddits": [],
+			"Title": "Test post by reddit-auto-poster.py",
+			"URL": "https://github.com/SkullTech/reddit-auto-poster.py",
+			"Text": "Testing. Don't mind me."
+		},
+		{
+			"Subreddits": [],
+			"Title": "Test post by reddit-auto-poster.py",
+			"URL": "https://github.com/SkullTech/reddit-auto-poster.py",
+			"Text": "Testing. Don't mind me."
+		}
+	]
+	
+}
