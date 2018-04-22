@@ -59,7 +59,7 @@ def main():
             except Exception as exp:
                 print('[*] Exception: {}'.format(exp))
             else:
-                print('[*] Posted "{}..." on {}. Post ID: {}'.format(post['Title'][:10], sr, sub.id))
+                print('[*] Posted "{}..." on {}. Post ID: {}'.format(post['Title'][:10].rstrip(), sr, sub.id))
 
 
 if __name__=='__main__':
