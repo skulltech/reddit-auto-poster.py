@@ -2,7 +2,7 @@
 Python script for posting to multiple subreddits automagically.
 
 
-# Installation and Set-Up
+## Installation and Set-Up
 
 Works on _Python 3.x_
 
@@ -13,7 +13,7 @@ $ pip3 install praw
 
 Also, you'll have to create a Reddit app of type `script` from [here](https://www.reddit.com/prefs/apps/), and put the `CLIENT_ID`, `CLIENT_SECRET` and `USERNAME` in the file [`config.ini`](https://github.com/SkullTech/reddit-auto-poster.py/blob/master/config.ini).
 
-# Usage
+## Usage
 
 After specifying the details of the posts to be made in the `posts.json` file, run the as following. Use the provided sample [`posts.json`](https://github.com/SkullTech/reddit-auto-poster.py/blob/master/posts.json) file as template
 
