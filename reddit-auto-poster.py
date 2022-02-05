@@ -13,7 +13,6 @@ class Golem:
                                   username=config['CONFIG']['USERNAME'],
                                   password=config['CONFIG']['PASSWORD'],
                                   user_agent='Script by u/SkullTech101')
-        self.reddit.validate_on_submit = True
 
     def post(self, subreddit, title, url=None, text=''): 
         if url:
